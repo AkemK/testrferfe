@@ -14,7 +14,6 @@
 
 ### Структура данных
 
-Карт понятий содержит:
 - **concepts** - массив концептов с полями id, label, description, level, category, files
 - **links** - массив связей между концептами с полями source, target, relationship
 - **metadata** - метаинформация о карте
